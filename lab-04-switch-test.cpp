@@ -14,8 +14,8 @@ int main() {
 		setup();
 	
     while(1) {
-        //if (firstBtn.read() == 0) 
-/*				if (firstBtn == 0)
+        // if (firstBtn.read() == 0) 
+	/*			if (firstBtn == 0)
 					greenLed = 1;
 				else
 					greenLed = 0;
