@@ -1,4 +1,4 @@
-la#include "mbed.h"
+#include "mbed.h"
 
 #define PIR_SENSOR_PIN D5
 #define GREEN_LED_PIN PA_13
