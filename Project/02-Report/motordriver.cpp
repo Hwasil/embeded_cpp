@@ -1,10 +1,10 @@
 #include "motordrive.h"
 
-#define MOTOR_STOP					0
+#define MOTOR_STOP				0
 #define MOTOR_CM_ROTATION			1
 #define MOTOR_CCM_ROTATION			-1
 
-#define FORWARD_DIR					0
+#define FORWARD_DIR				0
 #define BACKWORD_DIR				1
 
 Motor::Motor(PinName pwm, PinName dir):
