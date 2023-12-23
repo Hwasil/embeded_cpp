@@ -5,9 +5,9 @@
 
 #define FIRST_BTN_PIN   PA_14
 #define SECOND_BTN_PIN	PB_7
-#define THIRD_BTN_PIN		PC_4
+#define THIRD_BTN_PIN	PC_4
 
-#define BUZZER_PIN			PC_9
+#define BUZZER_PIN	PC_9
 
 #define C_NOTE_HALF_PERIOD 	1915		//usec
 
